@@ -89,6 +89,8 @@ streamlit run kick_analytic_app.py
  ```
 **Output**
 
+
+
 The application generates:
 
 	-Knee angle plots over time
@@ -97,11 +99,18 @@ The application generates:
 	-Summary statistics 
 	-Downloadable CSV containing frame-by-frame measurements
 
-## Example Output:
+Example Output:
+
+https://github.com/user-attachments/assets/c4b70d26-c7a0-4042-a077-6ba2fe6096bc
 
 
+<img width="250" height="250" alt="kick1" src="https://github.com/user-attachments/assets/b3433b42-7766-497f-9cef-6cbdca899fe8" />
+<img width="500" height="500" alt="kick3" src="https://github.com/user-attachments/assets/829d0593-17c1-4c28-bc92-9890a67464f9" />
+<img width="500" height="500" alt="kick5" src="https://github.com/user-attachments/assets/e3748bac-4a34-4fc0-8e16-11e9d21d619f" />
 
-**Applications**
+**Credits**
+* The demonstration clip used in the project preview is a derivative work based on a short segment from ([Link to the original video])
+## Applications
 
 This project can be used for:
 
@@ -130,5 +139,4 @@ This project can be used for:
 
 GitHub: https://github.com/ultimate-penguin
 
-LinkedIn: https://linkedin.com/in/your-profile
 
