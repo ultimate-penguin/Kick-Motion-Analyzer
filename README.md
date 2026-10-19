@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/c4b70d26-c7a0-4042-a077-6ba2fe6096bc
 <img width="500" height="500" alt="kick5" src="https://github.com/user-attachments/assets/e3748bac-4a34-4fc0-8e16-11e9d21d619f" />
 
 **Credits**
-* The demonstration clip used in the project preview is a derivative work based on a short segment from ([Link to the original video])
+* The demonstration clip used in the project preview is a derivative work based on a short segment from [https://youtu.be/l5ZoWU8NwCo?si=R0xnK8MrmjM2Mj9j]
 ## Applications
 
 This project can be used for:
