@@ -6,18 +6,18 @@ This project demonstrates the application of pose estimation, biomechanics, and 
 
 ## Features
  ```
-📹 Upload a martial arts kick video\
-🦵 Automatically detect left and right knee joint positions using pose estimation<br>
-📈 Plot knee joint angles over time (degrees)<br>
-⚡ Compute and visualize angular velocity (degrees/second)<br>
-📊 Display descriptive statistics including:<br>
-    -Peak knee angle<br>
-	  -Peak angular velocity<br>
-	  -Range of motion (ROM)<br>
-	  -Mean joint angle<br>
-📈 Plot hip's vertical positions over time<br>
-📥 Download the raw data as a CSV file<br>
-🌐 Interactive web interface built with Streamlit\
+📹 Upload a martial arts kick video
+🦵 Automatically detect left and right knee joint positions using pose estimation
+📈 Plot knee joint angles over time (degrees)
+⚡ Compute and visualize angular velocity (degrees/second)
+📊 Display descriptive statistics including:
+    -Peak knee angle
+	  -Peak angular velocity
+	  -Range of motion (ROM)
+	  -Mean joint angle
+📈 Plot hip's vertical positions over time
+📥 Download the raw data as a CSV file
+🌐 Interactive web interface built with Streamlit
  ```
 ## Workflow
 	  -Upload a kick video.
@@ -71,19 +71,19 @@ Kick_analytics/
  ```
 ## Installation
  ```
-**Clone the repository:**
+Clone the repository:
 
 git clone https://github.com/ultimate-penguin/Kick-Motion-Analyzer.git
 
 cd Kick-Motion-Analyzer
 
 
-**Install the required packages:**
+Install the required packages:
 
 pip install -r requirements.txt
 
 
-**Run the application:**
+Run the application:
 
 streamlit run kick_analytic_app.py
  ```
